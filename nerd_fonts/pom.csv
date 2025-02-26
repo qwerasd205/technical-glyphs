@@ -1,0 +1,12 @@
+codepoint,character,name
+e007,,away
+e000,,clean_code
+e00a,,external_interruption
+e009,,internal_interruption
+e006,,long_pause
+e008,,pair_programming
+e001,,pomodoro_done
+e002,,pomodoro_estimated
+e004,,pomodoro_squashed
+e003,,pomodoro_ticking
+e005,,short_pause

@@ -1,0 +1,10 @@
+codepoint,character,name
+e0a0,,branch
+e0a1,,current_line
+e0a2,,hostname
+e0b0,,left_hard_divider
+e0b1,,left_soft_divider
+e0a1,,line_number
+e0a2,,readonly
+e0b2,,right_hard_divider
+e0b3,,right_soft_divider
